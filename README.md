@@ -51,6 +51,7 @@ Observe the operation of the tank level control system.
 ## Output
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/efda790d-a4b6-433b-9408-59767838e3ed" />
 
 
 
